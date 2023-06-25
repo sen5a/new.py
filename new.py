@@ -1,3 +1,3 @@
 print('Я справлюсь')
 print('Получается')
-print('mail')
+print('mail.com')
